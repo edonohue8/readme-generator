@@ -57,9 +57,7 @@ Lastly, I used [Screencastify](https://www.screencastify.com/) to record a demon
 <img src="main-readme-assets/terminal.png" width="600">
 
 * **README file**
-<img src="main-readme-assets/readme1.png" width="600">
-
-<img src="main-readme-assets/readme2.png" width="600">
+<img src="main-readme-assets/readme.png" width="600">
 
 ## Author
 
