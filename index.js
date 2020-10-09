@@ -26,7 +26,7 @@ const questions = [
         message: "Please write a short description of your project"
     },
     {
-        type: "list",
+        type: "input",
         name: "license",
         message: "Please select the license your project should have",
         default: "MIT"
