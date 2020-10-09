@@ -50,6 +50,7 @@ Lastly, I used [Screencastify](https://www.screencastify.com/) to record a demon
 ## Demo
 ### Video Demonstration Link
 [Click here](https://drive.google.com/file/d/1T7qJRYQKYkeDeAxpVWNCArM7ATNqbCcF/view?usp=sharing)
+(After clicking link, please view in full-screen.)
 
 ## Screenshots
 
